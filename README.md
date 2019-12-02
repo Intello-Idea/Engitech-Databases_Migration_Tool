@@ -1,2 +1,2 @@
-# Engitech-Databases_Migration_Tool
+# engitech-databases_migration_tool
 Migrate Odoo databases between versions
