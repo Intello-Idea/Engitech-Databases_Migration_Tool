@@ -1,0 +1,22 @@
+.bg-img{
+    margin-bottom:0; 
+    background-image: url(https://www.marqueeresources.com.au/wp-content/uploads/2018/10/fog-forest-hd-wallpaper-113727.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img h1{
+    color: white;
+    font-weight: 800;
+}
+
+.bg-img p{
+    color: black;
+    font-weight: 400;
+}
+
+navbar-brand-col{
+    color: white!important;
+}
